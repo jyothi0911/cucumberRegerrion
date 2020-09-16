@@ -1,0 +1,705 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 17,
+        "name": "Verifiying the aaults details",
+        "description": "",
+        "id": "verify-the-adactinpage-functionalities;verifiying-the-aaults-details;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12253230500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "AdactinLoginStep.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user is should be enter the \"jyothibala\" and\"navyasree\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user is click the login button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user is should enter the details \"London\",\"Hotel Sunshine\",\"Double\" and \"1\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 16600,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user Enter the dates \"26/08/2020\" and \"27/08/2020\",\"4\" and \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"26/08/2020\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"27/08/2020\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"4\"",
+                  "offset": 51
+                },
+                {
+                  "val": "\"1\"",
+                  "offset": 59
+                }
+              ],
+              "location": "AdactinLoginStep.user_Enter_the_dates_and_and(String,String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11700,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user click the search button",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_search_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 11400,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user in selectHotel page click the select option and continue option",
+            "match": {
+              "location": "AdactinLoginStep.user_in_selectHotel_page_click_the_select_option_and_continue_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11200,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user should enter the personal details\"jyothi\",\"gajula\",\"Thamilnadu\",\"4568789123456789\",\"VISA\",\"November\",\"2022\" and \"428\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"jyothi\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"gajula\"",
+                  "offset": 47
+                },
+                {
+                  "val": "\"Thamilnadu\"",
+                  "offset": 56
+                },
+                {
+                  "val": "\"4568789123456789\"",
+                  "offset": 69
+                },
+                {
+                  "val": "\"VISA\"",
+                  "offset": 88
+                },
+                {
+                  "val": "\"November\"",
+                  "offset": 95
+                },
+                {
+                  "val": "\"2022\"",
+                  "offset": 106
+                },
+                {
+                  "val": "\"428\"",
+                  "offset": 117
+                }
+              ],
+              "location": "AdactinLoginStep.user_should_enter_the_personal_details_and(String,String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12300,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user click the Book  now option",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_Book_now_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10900,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user know the booking oder no",
+            "match": {
+              "location": "AdactinLoginStep.user_know_the_booking_oder_no()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Verifiying the aaults details",
+        "description": "",
+        "id": "verify-the-adactinpage-functionalities;verifiying-the-aaults-details;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 322031000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "AdactinLoginStep.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user is should be enter the \"jyothibala\" and\"navyasree\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user is click the login button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user is should enter the details \"New York\",\"Hotel Creek\",\"Deluxe\" and \"2\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8500,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user Enter the dates \"27/08/2020\" and \"28/08/2020\",\"1\" and \"0\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"27/08/2020\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"28/08/2020\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"1\"",
+                  "offset": 51
+                },
+                {
+                  "val": "\"0\"",
+                  "offset": 59
+                }
+              ],
+              "location": "AdactinLoginStep.user_Enter_the_dates_and_and(String,String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12500,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user click the search button",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_search_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8600,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user in selectHotel page click the select option and continue option",
+            "match": {
+              "location": "AdactinLoginStep.user_in_selectHotel_page_click_the_select_option_and_continue_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12700,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user should enter the personal details\"bala\",\"jula\",\"AndhraPradesh\",\"9456123456789200\",\"VISA\",\"Descember\",\"2021\" and \"653\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"bala\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"jula\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"AndhraPradesh\"",
+                  "offset": 52
+                },
+                {
+                  "val": "\"9456123456789200\"",
+                  "offset": 68
+                },
+                {
+                  "val": "\"VISA\"",
+                  "offset": 87
+                },
+                {
+                  "val": "\"Descember\"",
+                  "offset": 94
+                },
+                {
+                  "val": "\"2021\"",
+                  "offset": 106
+                },
+                {
+                  "val": "\"653\"",
+                  "offset": 117
+                }
+              ],
+              "location": "AdactinLoginStep.user_should_enter_the_personal_details_and(String,String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12600,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user click the Book  now option",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_Book_now_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7900,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user know the booking oder no",
+            "match": {
+              "location": "AdactinLoginStep.user_know_the_booking_oder_no()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Verifiying the aaults details",
+        "description": "",
+        "id": "verify-the-adactinpage-functionalities;verifiying-the-aaults-details;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 397888300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "AdactinLoginStep.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user is should be enter the \"jyothibala\" and\"navyasree\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user is click the login button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user is should enter the details \"Paris\",\"Hotel Creek\",\"Standard\" and \"3\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 16400,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user Enter the dates \"26/08/2020\" and \"27/08/2020\",\"2\" and \"2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"26/08/2020\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"27/08/2020\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"2\"",
+                  "offset": 51
+                },
+                {
+                  "val": "\"2\"",
+                  "offset": 59
+                }
+              ],
+              "location": "AdactinLoginStep.user_Enter_the_dates_and_and(String,String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8900,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user click the search button",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_search_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 462200,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user in selectHotel page click the select option and continue option",
+            "match": {
+              "location": "AdactinLoginStep.user_in_selectHotel_page_click_the_select_option_and_continue_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11400,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user should enter the personal details\"siva\",\"bhira\",\"WestBengal\",\"6894561234567892\",\"VISA\",\"August\",\"2022\" and \"651\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"siva\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"bhira\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"WestBengal\"",
+                  "offset": 53
+                },
+                {
+                  "val": "\"6894561234567892\"",
+                  "offset": 66
+                },
+                {
+                  "val": "\"VISA\"",
+                  "offset": 85
+                },
+                {
+                  "val": "\"August\"",
+                  "offset": 92
+                },
+                {
+                  "val": "\"2022\"",
+                  "offset": 101
+                },
+                {
+                  "val": "\"651\"",
+                  "offset": 112
+                }
+              ],
+              "location": "AdactinLoginStep.user_should_enter_the_personal_details_and(String,String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13400,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user click the Book  now option",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_Book_now_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 239000,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user know the booking oder no",
+            "match": {
+              "location": "AdactinLoginStep.user_know_the_booking_oder_no()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Verifiying the aaults details",
+        "description": "",
+        "id": "verify-the-adactinpage-functionalities;verifiying-the-aaults-details;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 147561500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "AdactinLoginStep.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user is should be enter the \"jyothibala\" and\"navyasree\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user is click the login button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user is should enter the details \"Sydney\",\"Hotel Hervey\",\"Super Deluxe\" and \"4\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8600,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "user Enter the dates \"28/08/2020\" and \"29/08/2020\",\"3\" and \"3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"28/08/2020\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"29/08/2020\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"3\"",
+                  "offset": 51
+                },
+                {
+                  "val": "\"3\"",
+                  "offset": 59
+                }
+              ],
+              "location": "AdactinLoginStep.user_Enter_the_dates_and_and(String,String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7600,
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user click the search button",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_search_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8100,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user in selectHotel page click the select option and continue option",
+            "match": {
+              "location": "AdactinLoginStep.user_in_selectHotel_page_click_the_select_option_and_continue_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8600,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user should enter the personal details\"Navya\",\"julkyf\",\"GUjarath\",\"7894561789456277\",\"VISA\",\"September\",\"2023\" and \"148\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Navya\"",
+                  "offset": 38
+                },
+                {
+                  "val": "\"julkyf\"",
+                  "offset": 46
+                },
+                {
+                  "val": "\"GUjarath\"",
+                  "offset": 55
+                },
+                {
+                  "val": "\"7894561789456277\"",
+                  "offset": 66
+                },
+                {
+                  "val": "\"VISA\"",
+                  "offset": 85
+                },
+                {
+                  "val": "\"September\"",
+                  "offset": 92
+                },
+                {
+                  "val": "\"2023\"",
+                  "offset": 104
+                },
+                {
+                  "val": "\"148\"",
+                  "offset": 115
+                }
+              ],
+              "location": "AdactinLoginStep.user_should_enter_the_personal_details_and(String,String,String,String,String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8700,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user click the Book  now option",
+            "match": {
+              "location": "AdactinLoginStep.user_click_the_Book_now_option()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 14400,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user know the booking oder no",
+            "match": {
+              "location": "AdactinLoginStep.user_know_the_booking_oder_no()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify the Adactinpage functionalities",
+    "description": "",
+    "id": "verify-the-adactinpage-functionalities",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features/adults.feature",
+    "tags": []
+  }
+]

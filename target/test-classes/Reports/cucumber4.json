@@ -1,0 +1,115 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "check the requrementsb of the Adactin",
+        "description": "",
+        "id": "functionality-of-the-adactinhotel;check-the-requrementsb-of-the-adactin",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26817254300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "OrderOfBeforeAnoat.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2306648400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is should be enter the username,password",
+            "match": {
+              "location": "OrderOfBeforeAnoat.user_is_should_be_enter_the_username_password()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "check the requrementsb of the Adactin",
+        "description": "",
+        "id": "functionality-of-the-adactinhotel;check-the-requrementsb-of-the-adactin",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13818057600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "OrderOfBeforeAnoat.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2190483600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user is should be enter the username,password",
+            "match": {
+              "location": "OrderOfBeforeAnoat.user_is_should_be_enter_the_username_password()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "check the requrementsb of the Adactin",
+        "description": "",
+        "id": "functionality-of-the-adactinhotel;check-the-requrementsb-of-the-adactin",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 20273865000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user is on the Adactinpage",
+            "match": {
+              "location": "OrderOfBeforeAnoat.user_is_on_the_Adactinpage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2186698100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user is should be enter the username,password",
+            "match": {
+              "location": "OrderOfBeforeAnoat.user_is_should_be_enter_the_username_password()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "functionality of the AdactinHotel",
+    "description": "",
+    "id": "functionality-of-the-adactinhotel",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features1/@beforeanatt.feature",
+    "tags": []
+  }
+]

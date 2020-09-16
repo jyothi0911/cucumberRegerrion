@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="4" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="13.131528">
+<testcase classname="Verify the Adactinpage functionalities" name="Verifiying the aaults details" time="12.260425">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is on the Adactinpage............................................passed
+When user is should be enter the "jyothibala" and"navyasree"................undefined
+And user is click the login button..........................................undefined
+When user is should enter the details "London","Hotel Sunshine","Double" and "1".undefined
+And user Enter the dates "26/08/2020" and "27/08/2020","4" and "1"..........skipped
+Then user click the search button...........................................skipped
+And user in selectHotel page click the select option and continue option....skipped
+When user should enter the personal details"jyothi","gajula","Thamilnadu","4568789123456789","VISA","November","2022" and "428".skipped
+Then user click the Book  now option........................................skipped
+Then user know the booking oder no..........................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Verify the Adactinpage functionalities" name="Verifiying the aaults details 2" time="0.323022">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is on the Adactinpage............................................passed
+When user is should be enter the "jyothibala" and"navyasree"................undefined
+And user is click the login button..........................................undefined
+When user is should enter the details "New York","Hotel Creek","Deluxe" and "2".undefined
+And user Enter the dates "27/08/2020" and "28/08/2020","1" and "0"..........skipped
+Then user click the search button...........................................skipped
+And user in selectHotel page click the select option and continue option....skipped
+When user should enter the personal details"bala","jula","AndhraPradesh","9456123456789200","VISA","Descember","2021" and "653".skipped
+Then user click the Book  now option........................................skipped
+Then user know the booking oder no..........................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Verify the Adactinpage functionalities" name="Verifiying the aaults details 3" time="0.399776">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is on the Adactinpage............................................passed
+When user is should be enter the "jyothibala" and"navyasree"................undefined
+And user is click the login button..........................................undefined
+When user is should enter the details "Paris","Hotel Creek","Standard" and "3".undefined
+And user Enter the dates "26/08/2020" and "27/08/2020","2" and "2"..........skipped
+Then user click the search button...........................................skipped
+And user in selectHotel page click the select option and continue option....skipped
+When user should enter the personal details"siva","bhira","WestBengal","6894561234567892","VISA","August","2022" and "651".skipped
+Then user click the Book  now option........................................skipped
+Then user know the booking oder no..........................................skipped
+]]></failure>
+</testcase>
+<testcase classname="Verify the Adactinpage functionalities" name="Verifiying the aaults details 4" time="0.148305">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is on the Adactinpage............................................passed
+When user is should be enter the "jyothibala" and"navyasree"................undefined
+And user is click the login button..........................................undefined
+When user is should enter the details "Sydney","Hotel Hervey","Super Deluxe" and "4".undefined
+And user Enter the dates "28/08/2020" and "29/08/2020","3" and "3"..........skipped
+Then user click the search button...........................................skipped
+And user in selectHotel page click the select option and continue option....skipped
+When user should enter the personal details"Navya","julkyf","GUjarath","7894561789456277","VISA","September","2023" and "148".skipped
+Then user click the Book  now option........................................skipped
+Then user know the booking oder no..........................................skipped
+]]></failure>
+</testcase>
+</testsuite>
